@@ -1,2 +1,2 @@
 # amazona-ecommerce
-E commerce website
+[live](next-tailwind-amazona.vercel.app/)
