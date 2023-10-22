@@ -1,6 +1,7 @@
 {
   "name": "next-tailwind-amazona",
   "version": "0.1.0",
+  "author": "usupal",
   "private": true,
   "scripts": {
     "dev": "next dev",
